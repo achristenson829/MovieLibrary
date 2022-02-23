@@ -1,0 +1,2 @@
+C:\Users\aid27\RiderProjects\MovieLibrary\MovieLibrary.Tests\obj\Debug\MovieLibrary.Tests.csproj.AssemblyReference.cache
+C:\Users\aid27\RiderProjects\MovieLibrary\MovieLibrary.Tests\obj\Debug\MovieLibrary.Tests.csproj.CoreCompileInputs.cache
